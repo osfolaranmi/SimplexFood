@@ -14,5 +14,5 @@ Download ngrok to make the app available onine for Africa's talking to access it
 Africa's Talking, Pusher and Vue are used to build this app.
 
 ## Acknowledgments
-This app is a version https://github.com/christiannwamba (Foodigo)
+This app is a version of https://github.com/christiannwamba 's Foodigo
 
